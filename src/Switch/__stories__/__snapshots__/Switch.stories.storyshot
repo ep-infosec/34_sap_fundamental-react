@@ -1,0 +1,438 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Component API/Switch Checked 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    onKeyDown={[Function]}
+  >
+    Switch label
+  </label>,
+  <label
+    className="fd-switch"
+  >
+    <span
+      className="fd-switch__control"
+    >
+      <input
+        aria-checked={true}
+        aria-label="Switch"
+        checked={true}
+        className="fd-switch__input"
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <div
+        className="fd-switch__slider"
+      >
+        <div
+          className="fd-switch__track"
+        >
+          <span
+            className="fd-switch__handle"
+            role="presentation"
+          />
+        </div>
+      </div>
+    </span>
+  </label>,
+]
+`;
+
+exports[`Storyshots Component API/Switch Compact 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    onKeyDown={[Function]}
+  >
+    Switch label
+  </label>,
+  <label
+    className="fd-switch"
+  >
+    <span
+      className="fd-switch__control fd-switch--compact"
+    >
+      <input
+        aria-checked={false}
+        aria-label="Switch"
+        checked={false}
+        className="fd-switch__input"
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <div
+        className="fd-switch__slider"
+      >
+        <div
+          className="fd-switch__track"
+        >
+          <span
+            className="fd-switch__handle"
+            role="presentation"
+          />
+        </div>
+      </div>
+    </span>
+  </label>,
+]
+`;
+
+exports[`Storyshots Component API/Switch Dev 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    onKeyDown={[Function]}
+  >
+    label
+  </label>,
+  <label
+    className="fd-switch"
+  >
+    <span
+      className="fd-switch__control"
+    >
+      <input
+        aria-checked={false}
+        aria-label="Switch"
+        checked={false}
+        className="fd-switch__input"
+        disabled={false}
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <div
+        className="fd-switch__slider"
+      >
+        <div
+          className="fd-switch__track"
+        >
+          <i
+            aria-label="on"
+            className="sap-icon--accept fd-switch__icon fd-switch__icon--on"
+            role="img"
+          />
+          <span
+            className="fd-switch__handle"
+            role="presentation"
+          />
+          <i
+            aria-label="off"
+            className="sap-icon--decline fd-switch__icon fd-switch__icon--off"
+            role="img"
+          />
+        </div>
+      </div>
+    </span>
+  </label>,
+]
+`;
+
+exports[`Storyshots Component API/Switch Disabled 1`] = `
+Array [
+  <label
+    className="fd-form-label is-disabled"
+    onKeyDown={[Function]}
+  >
+    Switch label
+  </label>,
+  <label
+    className="fd-switch"
+  >
+    <span
+      className="fd-switch__control"
+    >
+      <input
+        aria-checked={false}
+        aria-label="Switch"
+        checked={false}
+        className="fd-switch__input"
+        disabled={true}
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <div
+        className="fd-switch__slider"
+      >
+        <div
+          className="fd-switch__track"
+        >
+          <span
+            className="fd-switch__handle"
+            role="presentation"
+          />
+        </div>
+      </div>
+    </span>
+  </label>,
+]
+`;
+
+exports[`Storyshots Component API/Switch Internal Labels 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    onKeyDown={[Function]}
+  >
+    Show Internal Labels
+  </label>,
+  <label
+    className="fd-switch"
+  >
+    <span
+      aria-live="polite"
+      className="fd-switch__text"
+    >
+      off
+    </span>
+    <span
+      className="fd-switch__control"
+    >
+      <input
+        aria-checked={false}
+        aria-label="Switch"
+        checked={false}
+        className="fd-switch__input"
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <div
+        className="fd-switch__slider"
+      >
+        <div
+          className="fd-switch__track"
+        >
+          <i
+            aria-label="on"
+            className=""
+            role="img"
+          />
+          <span
+            className="fd-switch__handle"
+            role="presentation"
+          />
+          <i
+            aria-label="off"
+            className=""
+            role="img"
+          />
+        </div>
+      </div>
+    </span>
+  </label>,
+  <label
+    className="fd-form-label"
+    onKeyDown={[Function]}
+  >
+    Show Internal Labels and Icons
+  </label>,
+  <label
+    className="fd-switch"
+  >
+    <span
+      aria-live="polite"
+      className="fd-switch__text"
+    >
+      off
+    </span>
+    <span
+      className="fd-switch__control fd-switch--semantic"
+    >
+      <input
+        aria-checked={false}
+        aria-label="Switch"
+        checked={false}
+        className="fd-switch__input"
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <div
+        className="fd-switch__slider"
+      >
+        <div
+          className="fd-switch__track"
+        >
+          <i
+            aria-label="on"
+            className="sap-icon--accept fd-switch__icon fd-switch__icon--on"
+            role="img"
+          />
+          <span
+            className="fd-switch__handle"
+            role="presentation"
+          />
+          <i
+            aria-label="off"
+            className="sap-icon--decline fd-switch__icon fd-switch__icon--off"
+            role="img"
+          />
+        </div>
+      </div>
+    </span>
+  </label>,
+]
+`;
+
+exports[`Storyshots Component API/Switch No Styles 1`] = `
+Array [
+  <label
+    className="xxx-form-label"
+    onKeyDown={[Function]}
+  >
+    Switch label
+  </label>,
+  <label
+    className="xxx-switch"
+  >
+    <span
+      className="xxx-switch__control"
+    >
+      <input
+        aria-checked={false}
+        aria-label="Switch"
+        checked={false}
+        className="xxx-switch__input"
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <div
+        className="xxx-switch__slider"
+      >
+        <div
+          className="xxx-switch__track"
+        >
+          <span
+            className="xxx-switch__handle"
+            role="presentation"
+          />
+        </div>
+      </div>
+    </span>
+  </label>,
+]
+`;
+
+exports[`Storyshots Component API/Switch Primary 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    onKeyDown={[Function]}
+  >
+    Switch label
+  </label>,
+  <label
+    className="fd-switch"
+  >
+    <span
+      className="fd-switch__control"
+    >
+      <input
+        aria-checked={false}
+        aria-label="Switch"
+        checked={false}
+        className="fd-switch__input"
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <div
+        className="fd-switch__slider"
+      >
+        <div
+          className="fd-switch__track"
+        >
+          <span
+            className="fd-switch__handle"
+            role="presentation"
+          />
+        </div>
+      </div>
+    </span>
+  </label>,
+]
+`;
+
+exports[`Storyshots Component API/Switch Semantic 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    onKeyDown={[Function]}
+  >
+    Switch label
+  </label>,
+  <label
+    className="fd-switch"
+  >
+    <span
+      className="fd-switch__control fd-switch--semantic"
+    >
+      <input
+        aria-checked={false}
+        aria-label="Switch"
+        checked={false}
+        className="fd-switch__input"
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <div
+        className="fd-switch__slider"
+      >
+        <div
+          className="fd-switch__track"
+        >
+          <i
+            aria-label="on"
+            className="sap-icon--accept fd-switch__icon fd-switch__icon--on"
+            role="img"
+          />
+          <span
+            className="fd-switch__handle"
+            role="presentation"
+          />
+          <i
+            aria-label="off"
+            className="sap-icon--decline fd-switch__icon fd-switch__icon--off"
+            role="img"
+          />
+        </div>
+      </div>
+    </span>
+  </label>,
+]
+`;
+
+exports[`Storyshots Component API/Switch With No Label 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    onKeyDown={[Function]}
+  />,
+  <label
+    className="fd-switch"
+  >
+    <span
+      className="fd-switch__control"
+    >
+      <input
+        aria-checked={false}
+        aria-label="Switch"
+        checked={false}
+        className="fd-switch__input"
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <div
+        className="fd-switch__slider"
+      >
+        <div
+          className="fd-switch__track"
+        >
+          <span
+            className="fd-switch__handle"
+            role="presentation"
+          />
+        </div>
+      </div>
+    </span>
+  </label>,
+]
+`;

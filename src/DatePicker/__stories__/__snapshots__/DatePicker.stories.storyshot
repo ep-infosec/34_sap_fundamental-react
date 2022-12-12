@@ -1,0 +1,2306 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Component API/DatePicker Compact 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    htmlFor="compact-datepicker"
+  >
+    Date
+  </label>,
+  <div
+    defaultValue=""
+    onChange={[Function]}
+  >
+    <div
+      className="fd-popover"
+    >
+      <div
+        onFocus={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <div
+          className="fd-popover__control"
+        >
+          <div
+            className="fd-popover"
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  aria-expanded={false}
+                  aria-haspopup="true"
+                  className="fd-input-group--control fd-input-group"
+                >
+                  <input
+                    className="fd-input fd-input--compact fd-input-group__input"
+                    id="compact-datepicker"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    onKeyPress={[Function]}
+                    placeholder="MM/DD/YYYY"
+                    type="text"
+                    value=""
+                  />
+                  <span
+                    className="fd-input-group__addon fd-input-group__addon--button fd-input-group__addon--compact"
+                  >
+                    <button
+                      aria-label="Choose date"
+                      className="fd-button fd-button--transparent fd-button--compact fd-input-group__button"
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <i
+                        aria-hidden={true}
+                        className="sap-icon--appointment-2"
+                        role="img"
+                      />
+                    </button>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Component API/DatePicker Date Formats 1`] = `
+<div
+  className="fd-container"
+>
+  <div
+    className="fd-row"
+  >
+    <div
+      className="fd-col fd-col--6 fd-col-md--6 fd-col-lg--6 fd-col-xl--6"
+    >
+      <div>
+        <label
+          className="fd-form-label"
+          htmlFor="customDateFormatField"
+        >
+          Custom date format
+        </label>
+        <div
+          defaultValue=""
+          onChange={[Function]}
+        >
+          <div
+            className="fd-popover"
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-popover"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                >
+                  <div
+                    onFocus={[Function]}
+                    onMouseDown={[Function]}
+                    onTouchStart={[Function]}
+                  >
+                    <div
+                      className="fd-popover__control"
+                    >
+                      <div
+                        aria-expanded={false}
+                        aria-haspopup="true"
+                        className="fd-input-group--control fd-input-group"
+                      >
+                        <input
+                          className="fd-input fd-input-group__input"
+                          id="customDateFormatField"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          onKeyPress={[Function]}
+                          placeholder="MM/DD/YYYY"
+                          type="text"
+                          value=""
+                        />
+                        <span
+                          className="fd-input-group__addon fd-input-group__addon--button"
+                        >
+                          <button
+                            aria-label="Choose date"
+                            className="fd-button fd-button--transparent fd-input-group__button"
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <i
+                              aria-hidden={true}
+                              className="sap-icon--appointment-2"
+                              role="img"
+                            />
+                          </button>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="fd-col fd-col--6 fd-col-md--6 fd-col-lg--6 fd-col-xl--6"
+    >
+      <div>
+        <label
+          className="fd-form-label"
+          htmlFor="customDateFormatField2"
+        >
+          Custom date format with defaultValue
+        </label>
+        <div
+          defaultValue="12/04/1993"
+          onChange={[Function]}
+        >
+          <div
+            className="fd-popover"
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-popover"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                >
+                  <div
+                    onFocus={[Function]}
+                    onMouseDown={[Function]}
+                    onTouchStart={[Function]}
+                  >
+                    <div
+                      className="fd-popover__control"
+                    >
+                      <div
+                        aria-expanded={false}
+                        aria-haspopup="true"
+                        className="fd-input-group--control fd-input-group"
+                      >
+                        <input
+                          className="fd-input fd-input-group__input"
+                          id="customDateFormatField2"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          onKeyPress={[Function]}
+                          placeholder="MM/DD/YYYY"
+                          type="text"
+                          value="12/04/1993"
+                        />
+                        <span
+                          className="fd-input-group__addon fd-input-group__addon--button"
+                        >
+                          <button
+                            aria-label="Choose date"
+                            className="fd-button fd-button--transparent fd-input-group__button"
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <i
+                              aria-hidden={true}
+                              className="sap-icon--appointment-2"
+                              role="img"
+                            />
+                          </button>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="fd-row"
+  >
+    <div
+      className="fd-col fd-col--6 fd-col-md--6 fd-col-lg--6 fd-col-xl--6"
+    >
+      <div>
+        <label
+          className="fd-form-label"
+          htmlFor="customDateFormatField3"
+        >
+          DD.MM.YYYY in Hindi with defaultValue
+        </label>
+        <div
+          defaultValue="4.12.1993"
+          onChange={[Function]}
+        >
+          <div
+            className="fd-popover"
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-popover"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                >
+                  <div
+                    onFocus={[Function]}
+                    onMouseDown={[Function]}
+                    onTouchStart={[Function]}
+                  >
+                    <div
+                      className="fd-popover__control"
+                    >
+                      <div
+                        aria-expanded={false}
+                        aria-haspopup="true"
+                        className="fd-input-group--control fd-input-group"
+                      >
+                        <input
+                          className="fd-input fd-input-group__input"
+                          id="customDateFormatField3"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          onKeyPress={[Function]}
+                          placeholder="DD.MM.YYYY"
+                          type="text"
+                          value="०४.१२.१९९३"
+                        />
+                        <span
+                          className="fd-input-group__addon fd-input-group__addon--button"
+                        >
+                          <button
+                            aria-label="Choose date"
+                            className="fd-button fd-button--transparent fd-input-group__button"
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <i
+                              aria-hidden={true}
+                              className="sap-icon--appointment-2"
+                              role="img"
+                            />
+                          </button>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="fd-col fd-col--6 fd-col-md--6 fd-col-lg--6 fd-col-xl--6"
+    >
+      <div>
+        <label
+          className="fd-form-label"
+          htmlFor="customDateFormatField4"
+        >
+          Custom date format range selection
+        </label>
+        <div
+          defaultValue=""
+          onChange={[Function]}
+        >
+          <div
+            className="fd-popover"
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-popover"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                >
+                  <div
+                    onFocus={[Function]}
+                    onMouseDown={[Function]}
+                    onTouchStart={[Function]}
+                  >
+                    <div
+                      className="fd-popover__control"
+                    >
+                      <div
+                        aria-expanded={false}
+                        aria-haspopup="true"
+                        className="fd-input-group--control fd-input-group"
+                      >
+                        <input
+                          className="fd-input fd-input-group__input"
+                          id="customDateFormatField4"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          onKeyPress={[Function]}
+                          placeholder="MM/DD/YYYY - MM/DD/YYYY"
+                          type="text"
+                          value=""
+                        />
+                        <span
+                          className="fd-input-group__addon fd-input-group__addon--button"
+                        >
+                          <button
+                            aria-label="Choose date"
+                            className="fd-button fd-button--transparent fd-input-group__button"
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <i
+                              aria-hidden={true}
+                              className="sap-icon--appointment-2"
+                              role="img"
+                            />
+                          </button>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="fd-row"
+  >
+    <div
+      className="fd-col fd-col--6 fd-col-md--6 fd-col-lg--6 fd-col-xl--6"
+    >
+      <div>
+        <label
+          className="fd-form-label"
+          htmlFor="customDateFormatField5"
+        >
+          Unset date format, with French locale
+        </label>
+        <div
+          defaultValue=""
+          onChange={[Function]}
+        >
+          <div
+            className="fd-popover"
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-popover"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                >
+                  <div
+                    onFocus={[Function]}
+                    onMouseDown={[Function]}
+                    onTouchStart={[Function]}
+                  >
+                    <div
+                      className="fd-popover__control"
+                    >
+                      <div
+                        aria-expanded={false}
+                        aria-haspopup="true"
+                        className="fd-input-group--control fd-input-group"
+                      >
+                        <input
+                          className="fd-input fd-input-group__input"
+                          id="customDateFormatField5"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          onKeyPress={[Function]}
+                          placeholder="DD/MM/YYYY"
+                          type="text"
+                          value=""
+                        />
+                        <span
+                          className="fd-input-group__addon fd-input-group__addon--button"
+                        >
+                          <button
+                            aria-label="debugz"
+                            className="fd-button fd-button--transparent fd-input-group__button"
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <i
+                              aria-hidden={true}
+                              className="sap-icon--appointment-2"
+                              role="img"
+                            />
+                          </button>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="fd-col fd-col--6 fd-col-md--6 fd-col-lg--6 fd-col-xl--6"
+    >
+      <div>
+        <label
+          className="fd-form-label"
+          htmlFor="customDateFormatField6"
+        >
+          Unset date format, with null locale (uses ISO_DATE_FORMAT)
+        </label>
+        <div
+          defaultValue="17.3.20"
+          onChange={[Function]}
+        >
+          <div
+            className="fd-popover"
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-popover"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                >
+                  <div
+                    onFocus={[Function]}
+                    onMouseDown={[Function]}
+                    onTouchStart={[Function]}
+                  >
+                    <div
+                      className="fd-popover__control"
+                    >
+                      <div
+                        aria-expanded={false}
+                        aria-haspopup="true"
+                        className="fd-input-group--control fd-input-group"
+                      >
+                        <input
+                          className="fd-input fd-input-group__input"
+                          id="customDateFormatField6"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          onKeyPress={[Function]}
+                          placeholder="YYYY-MM-DD"
+                          type="text"
+                          value="2017-03-20"
+                        />
+                        <span
+                          className="fd-input-group__addon fd-input-group__addon--button"
+                        >
+                          <button
+                            aria-label="debugz"
+                            className="fd-button fd-button--transparent fd-input-group__button"
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <i
+                              aria-hidden={true}
+                              className="sap-icon--appointment-2"
+                              role="img"
+                            />
+                          </button>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component API/DatePicker Dev 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    htmlFor="dev-datepicker"
+  >
+    Date
+  </label>,
+  <div
+    defaultValue="14/06/2020 - 18/06/2020"
+    onChange={[Function]}
+  >
+    <div
+      className="fd-popover"
+    >
+      <div
+        onFocus={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <div
+          className="fd-popover__control"
+        >
+          <div
+            className="fd-popover"
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  aria-expanded={false}
+                  aria-haspopup="true"
+                  className="fd-input-group--control fd-input-group"
+                >
+                  <input
+                    className="fd-input fd-input--compact fd-input-group__input"
+                    id="dev-datepicker"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    onKeyPress={[Function]}
+                    placeholder="DD/MM/YYYY - DD/MM/YYYY"
+                    type="text"
+                    value=""
+                  />
+                  <span
+                    className="fd-input-group__addon fd-input-group__addon--button fd-input-group__addon--compact"
+                  >
+                    <button
+                      aria-label="Choose date"
+                      className="fd-button fd-button--transparent fd-button--compact fd-input-group__button"
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <i
+                        aria-hidden={true}
+                        className="sap-icon--appointment-2"
+                        role="img"
+                      />
+                    </button>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Component API/DatePicker Disabled 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    htmlFor="disabled-datepicker"
+  >
+    Date
+  </label>,
+  <div
+    defaultValue=""
+    onChange={[Function]}
+  >
+    <div
+      className="fd-popover"
+    >
+      <div
+        onFocus={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <div
+          className="fd-popover__control"
+        >
+          <div
+            className="fd-popover"
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  aria-expanded={null}
+                  aria-haspopup={null}
+                  className="fd-input-group--control fd-input-group is-disabled"
+                >
+                  <input
+                    className="fd-input fd-input-group__input"
+                    disabled={true}
+                    id="disabled-datepicker"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    onKeyPress={[Function]}
+                    placeholder="MM/DD/YYYY"
+                    type="text"
+                    value=""
+                  />
+                  <span
+                    className="fd-input-group__addon fd-input-group__addon--button"
+                    disabled={true}
+                  >
+                    <button
+                      aria-label="Choose date"
+                      className="fd-button fd-button--transparent is-disabled fd-input-group__button"
+                      disabled={true}
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <i
+                        aria-hidden={true}
+                        className="sap-icon--appointment-2"
+                        role="img"
+                      />
+                    </button>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Component API/DatePicker Enabled Range Selection 1`] = `
+<div
+  className="fd-container"
+>
+  <div
+    className="fd-row"
+  >
+    <div
+      className="fd-col fd-col--6 fd-col-md--6 fd-col-lg--6 fd-col-xl--6"
+    >
+      <div>
+        <label
+          className="fd-form-label"
+          htmlFor="rangeSelection"
+        >
+          Select a date range
+        </label>
+        <div
+          defaultValue=""
+          onChange={[Function]}
+        >
+          <div
+            className="fd-popover"
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-popover"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                >
+                  <div
+                    onFocus={[Function]}
+                    onMouseDown={[Function]}
+                    onTouchStart={[Function]}
+                  >
+                    <div
+                      className="fd-popover__control"
+                    >
+                      <div
+                        aria-expanded={false}
+                        aria-haspopup="true"
+                        className="fd-input-group--control fd-input-group"
+                      >
+                        <input
+                          className="fd-input fd-input-group__input"
+                          id="rangeSelection"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          onKeyPress={[Function]}
+                          placeholder="MM/DD/YYYY - MM/DD/YYYY"
+                          type="text"
+                          value=""
+                        />
+                        <span
+                          className="fd-input-group__addon fd-input-group__addon--button"
+                        >
+                          <button
+                            aria-label="Choose date"
+                            className="fd-button fd-button--transparent fd-input-group__button"
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <i
+                              aria-hidden={true}
+                              className="sap-icon--appointment-2"
+                              role="img"
+                            />
+                          </button>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="fd-col fd-col--6 fd-col-md--6 fd-col-lg--6 fd-col-xl--6"
+    >
+      <div>
+        <label
+          className="fd-form-label"
+          htmlFor="rangeSelectionDefaultValue"
+        >
+          Select a date range (default set)
+        </label>
+        <div
+          defaultValue="12/04/1993 - 12/30/1992"
+          onChange={[Function]}
+        >
+          <div
+            className="fd-popover"
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-popover"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                >
+                  <div
+                    onFocus={[Function]}
+                    onMouseDown={[Function]}
+                    onTouchStart={[Function]}
+                  >
+                    <div
+                      className="fd-popover__control"
+                    >
+                      <div
+                        aria-expanded={false}
+                        aria-haspopup="true"
+                        className="fd-input-group--control fd-input-group"
+                      >
+                        <input
+                          className="fd-input fd-input-group__input"
+                          id="rangeSelectionDefaultValue"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          onKeyPress={[Function]}
+                          placeholder="MM/DD/YYYY - MM/DD/YYYY"
+                          type="text"
+                          value="12/30/1992 - 12/04/1993"
+                        />
+                        <span
+                          className="fd-input-group__addon fd-input-group__addon--button"
+                        >
+                          <button
+                            aria-label="Choose date"
+                            className="fd-button fd-button--transparent fd-input-group__button"
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <i
+                              aria-hidden={true}
+                              className="sap-icon--appointment-2"
+                              role="img"
+                            />
+                          </button>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component API/DatePicker Localized DatePicker 1`] = `
+<div
+  className="fd-container"
+>
+  <div
+    className="fd-row"
+  >
+    <div
+      className="fd-col fd-col--6 fd-col-md--6 fd-col-lg--6 fd-col-xl--6"
+    >
+      <label
+        className="fd-form-label"
+        htmlFor="es-datepicker"
+      >
+        La fecha
+      </label>
+      <div
+        defaultValue=""
+        onChange={[Function]}
+      >
+        <div
+          className="fd-popover"
+        >
+          <div
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onTouchStart={[Function]}
+          >
+            <div
+              className="fd-popover__control"
+            >
+              <div
+                className="fd-popover"
+                onBlur={[Function]}
+                onFocus={[Function]}
+              >
+                <div
+                  onFocus={[Function]}
+                  onMouseDown={[Function]}
+                  onTouchStart={[Function]}
+                >
+                  <div
+                    className="fd-popover__control"
+                  >
+                    <div
+                      aria-expanded={false}
+                      aria-haspopup="true"
+                      className="fd-input-group--control fd-input-group"
+                    >
+                      <input
+                        className="fd-input fd-input-group__input"
+                        id="es-datepicker"
+                        onBlur={[Function]}
+                        onChange={[Function]}
+                        onFocus={[Function]}
+                        onKeyPress={[Function]}
+                        placeholder="DD/MM/YYYY"
+                        type="text"
+                        value=""
+                      />
+                      <span
+                        className="fd-input-group__addon fd-input-group__addon--button"
+                      >
+                        <button
+                          aria-label="Choose date"
+                          className="fd-button fd-button--transparent fd-input-group__button"
+                          onClick={[Function]}
+                          type="button"
+                        >
+                          <i
+                            aria-hidden={true}
+                            className="sap-icon--appointment-2"
+                            role="img"
+                          />
+                        </button>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="fd-col fd-col--6 fd-col-md--6 fd-col-lg--6 fd-col-xl--6"
+    >
+      <label
+        className="fd-form-label"
+        htmlFor="fr-datepicker"
+      >
+        La date
+      </label>
+      <div
+        defaultValue=""
+        onChange={[Function]}
+      >
+        <div
+          className="fd-popover"
+        >
+          <div
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onTouchStart={[Function]}
+          >
+            <div
+              className="fd-popover__control"
+            >
+              <div
+                className="fd-popover"
+                onBlur={[Function]}
+                onFocus={[Function]}
+              >
+                <div
+                  onFocus={[Function]}
+                  onMouseDown={[Function]}
+                  onTouchStart={[Function]}
+                >
+                  <div
+                    className="fd-popover__control"
+                  >
+                    <div
+                      aria-expanded={false}
+                      aria-haspopup="true"
+                      className="fd-input-group--control fd-input-group"
+                    >
+                      <input
+                        className="fd-input fd-input-group__input"
+                        id="fr-datepicker"
+                        onBlur={[Function]}
+                        onChange={[Function]}
+                        onFocus={[Function]}
+                        onKeyPress={[Function]}
+                        placeholder="DD/MM/YYYY"
+                        type="text"
+                        value=""
+                      />
+                      <span
+                        className="fd-input-group__addon fd-input-group__addon--button"
+                      >
+                        <button
+                          aria-label="Choose date"
+                          className="fd-button fd-button--transparent fd-input-group__button"
+                          onClick={[Function]}
+                          type="button"
+                        >
+                          <i
+                            aria-hidden={true}
+                            className="sap-icon--appointment-2"
+                            role="img"
+                          />
+                        </button>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component API/DatePicker Localized Today Footer Button 1`] = `
+<div
+  className="fd-container"
+>
+  <div
+    className="fd-row"
+  >
+    <div
+      className="fd-col fd-col--6 fd-col-md--6 fd-col-lg--6 fd-col-xl--6"
+    >
+      <div>
+        <label
+          className="fd-form-label"
+          htmlFor="englishTodayButtonDP"
+        >
+          Compact Datepicker with today selection button
+        </label>
+        <div
+          defaultValue=""
+          onChange={[Function]}
+        >
+          <div
+            className="fd-popover"
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-popover"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                >
+                  <div
+                    onFocus={[Function]}
+                    onMouseDown={[Function]}
+                    onTouchStart={[Function]}
+                  >
+                    <div
+                      className="fd-popover__control"
+                    >
+                      <div
+                        aria-expanded={false}
+                        aria-haspopup="true"
+                        className="fd-input-group--control fd-input-group"
+                      >
+                        <input
+                          className="fd-input fd-input--compact fd-input-group__input"
+                          id="englishTodayButtonDP"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          onKeyPress={[Function]}
+                          placeholder="MM/DD/YYYY"
+                          type="text"
+                          value=""
+                        />
+                        <span
+                          className="fd-input-group__addon fd-input-group__addon--button fd-input-group__addon--compact"
+                        >
+                          <button
+                            aria-label="Choose date"
+                            className="fd-button fd-button--transparent fd-button--compact fd-input-group__button"
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <i
+                              aria-hidden={true}
+                              className="sap-icon--appointment-2"
+                              role="img"
+                            />
+                          </button>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="fd-col fd-col--6 fd-col-md--6 fd-col-lg--6 fd-col-xl--6"
+    >
+      <div>
+        <label
+          className="fd-form-label"
+          htmlFor="hindiTodayButtonDP"
+        >
+          Datepicker with today selection button, custom locale, and default date
+        </label>
+        <div
+          defaultValue="३०/१२/१९९२"
+          onChange={[Function]}
+        >
+          <div
+            className="fd-popover"
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-popover"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                >
+                  <div
+                    onFocus={[Function]}
+                    onMouseDown={[Function]}
+                    onTouchStart={[Function]}
+                  >
+                    <div
+                      className="fd-popover__control"
+                    >
+                      <div
+                        aria-expanded={false}
+                        aria-haspopup="true"
+                        className="fd-input-group--control fd-input-group"
+                      >
+                        <input
+                          className="fd-input fd-input-group__input"
+                          id="hindiTodayButtonDP"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          onKeyPress={[Function]}
+                          placeholder="DD/MM/YYYY"
+                          type="text"
+                          value="३०/१२/१९९२"
+                        />
+                        <span
+                          className="fd-input-group__addon fd-input-group__addon--button"
+                        >
+                          <button
+                            aria-label="Choose date"
+                            className="fd-button fd-button--transparent fd-input-group__button"
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <i
+                              aria-hidden={true}
+                              className="sap-icon--appointment-2"
+                              role="img"
+                            />
+                          </button>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component API/DatePicker Localized Today Header Button 1`] = `
+<div
+  className="fd-container"
+>
+  <div
+    className="fd-row"
+  >
+    <div
+      className="fd-col fd-col--6 fd-col-md--6 fd-col-lg--6 fd-col-xl--6"
+    >
+      <div>
+        <label
+          className="fd-form-label"
+          htmlFor="englishTodayButtonDP"
+        >
+          Compact Datepicker with today navigation button
+        </label>
+        <div
+          defaultValue=""
+          onChange={[Function]}
+        >
+          <div
+            className="fd-popover"
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-popover"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                >
+                  <div
+                    onFocus={[Function]}
+                    onMouseDown={[Function]}
+                    onTouchStart={[Function]}
+                  >
+                    <div
+                      className="fd-popover__control"
+                    >
+                      <div
+                        aria-expanded={false}
+                        aria-haspopup="true"
+                        className="fd-input-group--control fd-input-group"
+                      >
+                        <input
+                          className="fd-input fd-input--compact fd-input-group__input"
+                          id="englishTodayButtonDP"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          onKeyPress={[Function]}
+                          placeholder="MM/DD/YYYY"
+                          type="text"
+                          value=""
+                        />
+                        <span
+                          className="fd-input-group__addon fd-input-group__addon--button fd-input-group__addon--compact"
+                        >
+                          <button
+                            aria-label="Choose date"
+                            className="fd-button fd-button--transparent fd-button--compact fd-input-group__button"
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <i
+                              aria-hidden={true}
+                              className="sap-icon--appointment-2"
+                              role="img"
+                            />
+                          </button>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="fd-col fd-col--6 fd-col-md--6 fd-col-lg--6 fd-col-xl--6"
+    >
+      <div>
+        <label
+          className="fd-form-label"
+          htmlFor="hindiTodayButtonDP"
+        >
+          Datepicker with today navigation button, custom locale, and default date
+        </label>
+        <div
+          defaultValue="३०/१२/१९९२"
+          onChange={[Function]}
+        >
+          <div
+            className="fd-popover"
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-popover"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                >
+                  <div
+                    onFocus={[Function]}
+                    onMouseDown={[Function]}
+                    onTouchStart={[Function]}
+                  >
+                    <div
+                      className="fd-popover__control"
+                    >
+                      <div
+                        aria-expanded={false}
+                        aria-haspopup="true"
+                        className="fd-input-group--control fd-input-group"
+                      >
+                        <input
+                          className="fd-input fd-input-group__input"
+                          id="hindiTodayButtonDP"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          onKeyPress={[Function]}
+                          placeholder="DD/MM/YYYY"
+                          type="text"
+                          value="३०/१२/१९९२"
+                        />
+                        <span
+                          className="fd-input-group__addon fd-input-group__addon--button"
+                        >
+                          <button
+                            aria-label="Choose date"
+                            className="fd-button fd-button--transparent fd-input-group__button"
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <i
+                              aria-hidden={true}
+                              className="sap-icon--appointment-2"
+                              role="img"
+                            />
+                          </button>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component API/DatePicker No Styles 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    htmlFor="nostyles-datepicker"
+  >
+    Date
+  </label>,
+  <div
+    defaultValue=""
+    onChange={[Function]}
+  >
+    <div
+      className="xxx-popover"
+    >
+      <div
+        onFocus={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <div
+          className="xxx-popover__control"
+        >
+          <div
+            className="xxx-popover"
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="xxx-popover__control"
+              >
+                <div
+                  aria-expanded={false}
+                  aria-haspopup="true"
+                  className="xxx-input-group--control xxx-input-group"
+                >
+                  <input
+                    className="xxx-input xxx-input-group__input"
+                    id="nostyles-datepicker"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    onKeyPress={[Function]}
+                    placeholder="MM/DD/YYYY"
+                    type="text"
+                    value=""
+                  />
+                  <span
+                    className="xxx-input-group__addon xxx-input-group__addon--button"
+                  >
+                    <button
+                      aria-label="Choose date"
+                      className="xxx-button xxx-button--transparent xxx-input-group__button"
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <i
+                        aria-hidden={true}
+                        className="sap-icon--appointment-2"
+                        role="img"
+                      />
+                    </button>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Component API/DatePicker Open To Date 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    htmlFor="openTo-datepicker"
+  >
+    Date
+  </label>,
+  <div
+    defaultValue=""
+    onChange={[Function]}
+  >
+    <div
+      className="fd-popover"
+    >
+      <div
+        onFocus={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <div
+          className="fd-popover__control"
+        >
+          <div
+            className="fd-popover"
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  aria-expanded={false}
+                  aria-haspopup="true"
+                  className="fd-input-group--control fd-input-group"
+                >
+                  <input
+                    className="fd-input fd-input-group__input"
+                    id="openTo-datepicker"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    onKeyPress={[Function]}
+                    placeholder="MM/DD/YYYY"
+                    type="text"
+                    value=""
+                  />
+                  <span
+                    className="fd-input-group__addon fd-input-group__addon--button"
+                  >
+                    <button
+                      aria-label="Choose date"
+                      className="fd-button fd-button--transparent fd-input-group__button"
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <i
+                        aria-hidden={true}
+                        className="sap-icon--appointment-2"
+                        role="img"
+                      />
+                    </button>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Component API/DatePicker Primary 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    htmlFor="primary-datepicker"
+  >
+    Date
+  </label>,
+  <div
+    defaultValue=""
+    onChange={[Function]}
+  >
+    <div
+      className="fd-popover"
+    >
+      <div
+        onFocus={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <div
+          className="fd-popover__control"
+        >
+          <div
+            className="fd-popover"
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  aria-expanded={false}
+                  aria-haspopup="true"
+                  className="fd-input-group--control fd-input-group"
+                >
+                  <input
+                    className="fd-input fd-input-group__input"
+                    id="primary-datepicker"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    onKeyPress={[Function]}
+                    placeholder="MM/DD/YYYY"
+                    type="text"
+                    value=""
+                  />
+                  <span
+                    className="fd-input-group__addon fd-input-group__addon--button"
+                  >
+                    <button
+                      aria-label="Choose date"
+                      className="fd-button fd-button--transparent fd-input-group__button"
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <i
+                        aria-hidden={true}
+                        className="sap-icon--appointment-2"
+                        role="img"
+                      />
+                    </button>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Component API/DatePicker ReadOnly 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    htmlFor="readOnly-datepicker"
+  >
+    Date
+  </label>,
+  <div
+    defaultValue="12/12/2012"
+    onChange={[Function]}
+  >
+    <div
+      className="fd-popover"
+    >
+      <div
+        onFocus={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <div
+          className="fd-popover__control"
+        >
+          <div
+            className="fd-popover"
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  aria-expanded={null}
+                  aria-haspopup={null}
+                  className="fd-input-group--control fd-input-group"
+                >
+                  <input
+                    className="fd-input fd-input-group__input"
+                    id="readOnly-datepicker"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    onKeyPress={[Function]}
+                    placeholder="MM/DD/YYYY"
+                    readOnly={true}
+                    type="text"
+                    value="12/12/2012"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Component API/DatePicker Special Days 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    htmlFor="special-days"
+  >
+    Date
+  </label>,
+  <div
+    defaultValue=""
+    onChange={[Function]}
+  >
+    <div
+      className="fd-popover"
+    >
+      <div
+        onFocus={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <div
+          className="fd-popover__control"
+        >
+          <div
+            className="fd-popover"
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  aria-expanded={false}
+                  aria-haspopup="true"
+                  className="fd-input-group--control fd-input-group"
+                >
+                  <input
+                    className="fd-input fd-input-group__input"
+                    id="special-days"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    onKeyPress={[Function]}
+                    placeholder="MM/DD/YYYY"
+                    type="text"
+                    value=""
+                  />
+                  <span
+                    className="fd-input-group__addon fd-input-group__addon--button"
+                  >
+                    <button
+                      aria-label="Choose date"
+                      className="fd-button fd-button--transparent fd-input-group__button"
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <i
+                        aria-hidden={true}
+                        className="sap-icon--appointment-2"
+                        role="img"
+                      />
+                    </button>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Component API/DatePicker Validation States 1`] = `
+<div
+  className="fd-container"
+>
+  <div
+    className="fd-row"
+  >
+    <div
+      className="fd-col fd-col--3 fd-col-md--3 fd-col-lg--3 fd-col-xl--3"
+    >
+      <label
+        className="fd-form-label"
+        htmlFor="error-state"
+      >
+        Date
+      </label>
+      <div
+        defaultValue=""
+        onChange={[Function]}
+      >
+        <div
+          className="fd-popover"
+        >
+          <div
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onTouchStart={[Function]}
+          >
+            <div
+              className="fd-popover__control"
+            >
+              <div
+                className="fd-popover"
+                onBlur={[Function]}
+                onFocus={[Function]}
+              >
+                <div
+                  onFocus={[Function]}
+                  onMouseDown={[Function]}
+                  onTouchStart={[Function]}
+                >
+                  <div
+                    className="fd-popover__control"
+                  >
+                    <div
+                      aria-expanded={false}
+                      aria-haspopup="true"
+                      className="fd-input-group--control is-error fd-input-group is-error"
+                    >
+                      <input
+                        className="fd-input fd-input-group__input"
+                        id="error-state"
+                        onBlur={[Function]}
+                        onChange={[Function]}
+                        onFocus={[Function]}
+                        onKeyPress={[Function]}
+                        placeholder="MM/DD/YYYY"
+                        type="text"
+                        value=""
+                      />
+                      <span
+                        className="fd-input-group__addon fd-input-group__addon--button"
+                      >
+                        <button
+                          aria-label="Choose date"
+                          className="fd-button fd-button--transparent fd-input-group__button"
+                          onClick={[Function]}
+                          type="button"
+                        >
+                          <i
+                            aria-hidden={true}
+                            className="sap-icon--appointment-2"
+                            role="img"
+                          />
+                        </button>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="fd-col fd-col--3 fd-col-md--3 fd-col-lg--3 fd-col-xl--3"
+    >
+      <label
+        className="fd-form-label"
+        htmlFor="warning-state"
+      >
+        Date
+      </label>
+      <div
+        defaultValue=""
+        onChange={[Function]}
+      >
+        <div
+          className="fd-popover"
+        >
+          <div
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onTouchStart={[Function]}
+          >
+            <div
+              className="fd-popover__control"
+            >
+              <div
+                className="fd-popover"
+                onBlur={[Function]}
+                onFocus={[Function]}
+              >
+                <div
+                  onFocus={[Function]}
+                  onMouseDown={[Function]}
+                  onTouchStart={[Function]}
+                >
+                  <div
+                    className="fd-popover__control"
+                  >
+                    <div
+                      aria-expanded={false}
+                      aria-haspopup="true"
+                      className="fd-input-group--control is-warning fd-input-group is-warning"
+                    >
+                      <input
+                        className="fd-input fd-input-group__input"
+                        id="warning-state"
+                        onBlur={[Function]}
+                        onChange={[Function]}
+                        onFocus={[Function]}
+                        onKeyPress={[Function]}
+                        placeholder="MM/DD/YYYY"
+                        type="text"
+                        value=""
+                      />
+                      <span
+                        className="fd-input-group__addon fd-input-group__addon--button"
+                      >
+                        <button
+                          aria-label="Choose date"
+                          className="fd-button fd-button--transparent fd-input-group__button"
+                          onClick={[Function]}
+                          type="button"
+                        >
+                          <i
+                            aria-hidden={true}
+                            className="sap-icon--appointment-2"
+                            role="img"
+                          />
+                        </button>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="fd-col fd-col--3 fd-col-md--3 fd-col-lg--3 fd-col-xl--3"
+    >
+      <label
+        className="fd-form-label"
+        htmlFor="success-state"
+      >
+        Date
+      </label>
+      <div
+        defaultValue=""
+        onChange={[Function]}
+      >
+        <div
+          className="fd-popover"
+        >
+          <div
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onTouchStart={[Function]}
+          >
+            <div
+              className="fd-popover__control"
+            >
+              <div
+                className="fd-popover"
+                onBlur={[Function]}
+                onFocus={[Function]}
+              >
+                <div
+                  onFocus={[Function]}
+                  onMouseDown={[Function]}
+                  onTouchStart={[Function]}
+                >
+                  <div
+                    className="fd-popover__control"
+                  >
+                    <div
+                      aria-expanded={false}
+                      aria-haspopup="true"
+                      className="fd-input-group--control is-success fd-input-group is-success"
+                    >
+                      <input
+                        className="fd-input fd-input-group__input"
+                        id="success-state"
+                        onBlur={[Function]}
+                        onChange={[Function]}
+                        onFocus={[Function]}
+                        onKeyPress={[Function]}
+                        placeholder="MM/DD/YYYY"
+                        type="text"
+                        value=""
+                      />
+                      <span
+                        className="fd-input-group__addon fd-input-group__addon--button"
+                      >
+                        <button
+                          aria-label="Choose date"
+                          className="fd-button fd-button--transparent fd-input-group__button"
+                          onClick={[Function]}
+                          type="button"
+                        >
+                          <i
+                            aria-hidden={true}
+                            className="sap-icon--appointment-2"
+                            role="img"
+                          />
+                        </button>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="fd-col fd-col--3 fd-col-md--3 fd-col-lg--3 fd-col-xl--3"
+    >
+      <label
+        className="fd-form-label"
+        htmlFor="info-state"
+      >
+        Date
+      </label>
+      <div
+        defaultValue=""
+        onChange={[Function]}
+      >
+        <div
+          className="fd-popover"
+        >
+          <div
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onTouchStart={[Function]}
+          >
+            <div
+              className="fd-popover__control"
+            >
+              <div
+                className="fd-popover"
+                onBlur={[Function]}
+                onFocus={[Function]}
+              >
+                <div
+                  onFocus={[Function]}
+                  onMouseDown={[Function]}
+                  onTouchStart={[Function]}
+                >
+                  <div
+                    className="fd-popover__control"
+                  >
+                    <div
+                      aria-expanded={false}
+                      aria-haspopup="true"
+                      className="fd-input-group--control is-information fd-input-group is-information"
+                    >
+                      <input
+                        className="fd-input fd-input-group__input"
+                        id="info-state"
+                        onBlur={[Function]}
+                        onChange={[Function]}
+                        onFocus={[Function]}
+                        onKeyPress={[Function]}
+                        placeholder="MM/DD/YYYY"
+                        type="text"
+                        value=""
+                      />
+                      <span
+                        className="fd-input-group__addon fd-input-group__addon--button"
+                      >
+                        <button
+                          aria-label="Choose date"
+                          className="fd-button fd-button--transparent fd-input-group__button"
+                          onClick={[Function]}
+                          type="button"
+                        >
+                          <i
+                            aria-hidden={true}
+                            className="sap-icon--appointment-2"
+                            role="img"
+                          />
+                        </button>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component API/DatePicker Weekday Start (Monday Start) 1`] = `
+Array [
+  <label
+    className="fd-form-label"
+    htmlFor="weekday-start"
+  >
+    Date
+  </label>,
+  <div
+    defaultValue=""
+    onChange={[Function]}
+  >
+    <div
+      className="fd-popover"
+    >
+      <div
+        onFocus={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <div
+          className="fd-popover__control"
+        >
+          <div
+            className="fd-popover"
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  aria-expanded={false}
+                  aria-haspopup="true"
+                  className="fd-input-group--control fd-input-group"
+                >
+                  <input
+                    className="fd-input fd-input-group__input"
+                    id="weekday-start"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    onKeyPress={[Function]}
+                    placeholder="MM/DD/YYYY"
+                    type="text"
+                    value=""
+                  />
+                  <span
+                    className="fd-input-group__addon fd-input-group__addon--button"
+                  >
+                    <button
+                      aria-label="Choose date"
+                      className="fd-button fd-button--transparent fd-input-group__button"
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <i
+                        aria-hidden={true}
+                        className="sap-icon--appointment-2"
+                        role="img"
+                      />
+                    </button>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Component API/DatePicker With Custom Flip Container 1`] = `
+<div
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "border": "1px solid black",
+        "padding": "420px 40px 450px 240px",
+      }
+    }
+  >
+    <label
+      className="fd-form-label"
+      htmlFor="flip-container"
+    >
+      Date
+    </label>
+    <div
+      defaultValue=""
+      onChange={[Function]}
+    >
+      <div
+        className="fd-popover"
+      >
+        <div
+          onFocus={[Function]}
+          onMouseDown={[Function]}
+          onTouchStart={[Function]}
+        >
+          <div
+            className="fd-popover__control"
+          >
+            <div
+              className="fd-popover"
+              onBlur={[Function]}
+              onFocus={[Function]}
+            >
+              <div
+                onFocus={[Function]}
+                onMouseDown={[Function]}
+                onTouchStart={[Function]}
+              >
+                <div
+                  className="fd-popover__control"
+                >
+                  <div
+                    aria-expanded={false}
+                    aria-haspopup="true"
+                    className="fd-input-group--control fd-input-group"
+                  >
+                    <input
+                      className="fd-input fd-input-group__input"
+                      id="flip-container"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      onKeyPress={[Function]}
+                      placeholder="MM/DD/YYYY"
+                      type="text"
+                      value=""
+                    />
+                    <span
+                      className="fd-input-group__addon fd-input-group__addon--button"
+                    >
+                      <button
+                        aria-label="Choose date"
+                        className="fd-button fd-button--transparent fd-input-group__button"
+                        onClick={[Function]}
+                        type="button"
+                      >
+                        <i
+                          aria-hidden={true}
+                          className="sap-icon--appointment-2"
+                          role="img"
+                        />
+                      </button>
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "#444",
+        "height": "120px",
+        "width": "180px",
+      }
+    }
+  />
+</div>
+`;

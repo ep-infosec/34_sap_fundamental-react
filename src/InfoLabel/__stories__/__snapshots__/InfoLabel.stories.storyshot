@@ -1,0 +1,237 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Component API/InfoLabel Colors 1`] = `
+<div
+  className="fddocs-container"
+>
+  <span
+    className="fd-info-label fd-info-label--accent-color-1"
+  >
+    <span
+      className="fd-info-label__text"
+    >
+      Color 1
+    </span>
+  </span>
+  <span
+    className="fd-info-label fd-info-label--accent-color-2"
+  >
+    <span
+      className="fd-info-label__text"
+    >
+      Color 2
+    </span>
+  </span>
+  <span
+    className="fd-info-label fd-info-label--accent-color-3"
+  >
+    <span
+      className="fd-info-label__text"
+    >
+      Color 3
+    </span>
+  </span>
+  <span
+    className="fd-info-label fd-info-label--accent-color-4"
+  >
+    <span
+      className="fd-info-label__text"
+    >
+      Color 4
+    </span>
+  </span>
+  <span
+    className="fd-info-label fd-info-label--accent-color-5"
+  >
+    <span
+      className="fd-info-label__text"
+    >
+      Color 5
+    </span>
+  </span>
+  <span
+    className="fd-info-label fd-info-label--accent-color-6"
+  >
+    <span
+      className="fd-info-label__text"
+    >
+      Color 6
+    </span>
+  </span>
+  <span
+    className="fd-info-label fd-info-label--accent-color-7"
+  >
+    <span
+      className="fd-info-label__text"
+    >
+      Color 7
+    </span>
+  </span>
+  <span
+    className="fd-info-label fd-info-label--accent-color-8"
+  >
+    <span
+      className="fd-info-label__text"
+    >
+      Color 8
+    </span>
+  </span>
+  <span
+    className="fd-info-label fd-info-label--accent-color-9"
+  >
+    <span
+      className="fd-info-label__text"
+    >
+      Color 9
+    </span>
+  </span>
+  <span
+    className="fd-info-label fd-info-label--accent-color-10"
+  >
+    <span
+      className="fd-info-label__text"
+    >
+      Color 10
+    </span>
+  </span>
+</div>
+`;
+
+exports[`Storyshots Component API/InfoLabel Dev 1`] = `
+<span
+  className="fd-info-label fd-info-label--accent-color-1 fd-info-label--icon"
+>
+  <i
+    aria-hidden={true}
+    className="sap-icon--future fd-info-label__icon"
+    role="img"
+  />
+  <span
+    className="fd-info-label__text"
+  >
+    Default
+  </span>
+</span>
+`;
+
+exports[`Storyshots Component API/InfoLabel Glyph 1`] = `
+<div
+  className="fddocs-container"
+>
+  <span
+    className="fd-info-label fd-info-label--icon"
+  >
+    <i
+      aria-hidden={true}
+      className="sap-icon--add-activity-2 fd-info-label__icon"
+      role="img"
+    />
+    <span
+      className="fd-info-label__text"
+    >
+      add-activity-2
+    </span>
+  </span>
+  <span
+    className="fd-info-label fd-info-label--icon"
+  >
+    <i
+      aria-hidden={true}
+      className="sap-icon--bar-code fd-info-label__icon"
+      role="img"
+    />
+    <span
+      className="fd-info-label__text"
+    >
+      bar-code
+    </span>
+  </span>
+  <span
+    className="fd-info-label fd-info-label--icon"
+  >
+    <i
+      aria-hidden={true}
+      className="sap-icon--hide fd-info-label__icon"
+      role="img"
+    />
+    <span
+      className="fd-info-label__text"
+    >
+      hide
+    </span>
+  </span>
+  <span
+    className="fd-info-label fd-info-label--icon"
+  >
+    <i
+      aria-hidden={true}
+      className="sap-icon--key fd-info-label__icon"
+      role="img"
+    />
+    <span
+      className="fd-info-label__text"
+    >
+      key
+    </span>
+  </span>
+  <span
+    aria-label="upload-to-cloud"
+    className="fd-info-label fd-info-label--icon"
+  >
+    <i
+      aria-hidden={true}
+      className="sap-icon--upload-to-cloud fd-info-label__icon"
+      role="img"
+    />
+  </span>
+</div>
+`;
+
+exports[`Storyshots Component API/InfoLabel No Styles 1`] = `
+<span
+  className="xxx-info-label"
+>
+  <span
+    className="fd-info-label__text"
+  >
+    Default
+  </span>
+</span>
+`;
+
+exports[`Storyshots Component API/InfoLabel Numeric 1`] = `
+<div
+  className="fddocs-container"
+>
+  <span
+    className="fd-info-label fd-info-label--numeric"
+  >
+    <span
+      className="fd-info-label__text"
+    >
+      1
+    </span>
+  </span>
+  <span
+    className="fd-info-label fd-info-label--numeric"
+  >
+    <span
+      className="fd-info-label__text"
+    >
+      10000
+    </span>
+  </span>
+</div>
+`;
+
+exports[`Storyshots Component API/InfoLabel Primary 1`] = `
+<span
+  className="fd-info-label"
+>
+  <span
+    className="fd-info-label__text"
+  >
+    Default
+  </span>
+</span>
+`;

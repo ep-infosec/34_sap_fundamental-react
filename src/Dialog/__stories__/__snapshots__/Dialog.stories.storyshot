@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Component API/Dialog Header 1`] = `
+<button
+  className="fd-button"
+  onClick={[Function]}
+  type="button"
+>
+  <span
+    className="fd-button__text"
+  >
+    Show Dialog
+  </span>
+</button>
+`;
+
+exports[`Storyshots Component API/Dialog No Styles 1`] = `
+<button
+  className="xxx-button"
+  onClick={[Function]}
+  type="button"
+>
+  <span
+    className="xxx-button__text"
+  >
+    Show Dialog
+  </span>
+</button>
+`;
+
+exports[`Storyshots Component API/Dialog Primary 1`] = `
+<button
+  className="fd-button"
+  onClick={[Function]}
+  type="button"
+>
+  <span
+    className="fd-button__text"
+  >
+    Show Dialog
+  </span>
+</button>
+`;
+
+exports[`Storyshots Component API/Dialog Sizes 1`] = `
+<div
+  className="fddocs-container"
+>
+  <button
+    className="fd-button"
+    onClick={[Function]}
+    type="button"
+  >
+    <span
+      className="fd-button__text"
+    >
+      Show Small Dialog
+    </span>
+  </button>
+  <button
+    className="fd-button"
+    onClick={[Function]}
+    type="button"
+  >
+    <span
+      className="fd-button__text"
+    >
+      Show Medium Dialog
+    </span>
+  </button>
+  <button
+    className="fd-button"
+    onClick={[Function]}
+    type="button"
+  >
+    <span
+      className="fd-button__text"
+    >
+      Show Large Dialog
+    </span>
+  </button>
+  <button
+    className="fd-button"
+    onClick={[Function]}
+    type="button"
+  >
+    <span
+      className="fd-button__text"
+    >
+      Show XL Dialog
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Component API/Dialog Subheader 1`] = `
+<button
+  className="fd-button"
+  onClick={[Function]}
+  type="button"
+>
+  <span
+    className="fd-button__text"
+  >
+    Show Dialog
+  </span>
+</button>
+`;

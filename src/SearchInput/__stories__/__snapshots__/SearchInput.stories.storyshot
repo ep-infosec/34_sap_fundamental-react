@@ -1,0 +1,646 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Component API/SearchInput Compact 1`] = `
+<div>
+  <div
+    className="fd-popover"
+  >
+    <div
+      onFocus={[Function]}
+      onMouseDown={[Function]}
+      onTouchStart={[Function]}
+    >
+      <div
+        className="fd-popover__control"
+      >
+        <div
+          className="fd-popover"
+          onBlur={[Function]}
+          onFocus={[Function]}
+        >
+          <div
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onTouchStart={[Function]}
+          >
+            <div
+              className="fd-popover__control"
+            >
+              <div
+                className="fd-input-group--control fd-input-group"
+                onClick={[Function]}
+              >
+                <input
+                  aria-label="Compact search input"
+                  className="fd-input fd-input--compact fd-input-group__input"
+                  onChange={[Function]}
+                  onClick={[Function]}
+                  onKeyPress={[Function]}
+                  placeholder="Placeholder"
+                  type="text"
+                  value=""
+                />
+                <span
+                  className="fd-input-group__addon fd-input-group__addon--button fd-input-group__addon--compact"
+                >
+                  <button
+                    aria-label="Search"
+                    className="fd-button fd-button--transparent fd-button--compact fd-input-group__button"
+                    onClick={[Function]}
+                    type="button"
+                  >
+                    <i
+                      aria-hidden={true}
+                      className="sap-icon--search"
+                      role="img"
+                    />
+                  </button>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component API/SearchInput Dev 1`] = `
+<div>
+  <div
+    className="fd-popover"
+  >
+    <div
+      onFocus={[Function]}
+      onMouseDown={[Function]}
+      onTouchStart={[Function]}
+    >
+      <div
+        className="fd-popover__control"
+      >
+        <div
+          className="fd-popover"
+          onBlur={[Function]}
+          onFocus={[Function]}
+        >
+          <div
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onTouchStart={[Function]}
+          >
+            <div
+              className="fd-popover__control"
+            >
+              <div
+                className="fd-input-group--control fd-input-group"
+                onClick={[Function]}
+                readOnly={false}
+              >
+                <input
+                  aria-label="Search input for dev testing"
+                  className="fd-input fd-input-group__input"
+                  disabled={false}
+                  onChange={[Function]}
+                  onClick={[Function]}
+                  onKeyPress={[Function]}
+                  placeholder="Select a Fruit"
+                  readOnly={false}
+                  type="text"
+                  value=""
+                />
+                <span
+                  className="fd-input-group__addon fd-input-group__addon--button"
+                  disabled={false}
+                >
+                  <button
+                    aria-label="Search"
+                    className="fd-button fd-button--transparent fd-input-group__button"
+                    onClick={[Function]}
+                    type="button"
+                  >
+                    <i
+                      aria-hidden={true}
+                      className="sap-icon--search"
+                      role="img"
+                    />
+                  </button>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component API/SearchInput Disabled 1`] = `
+<div>
+  <div
+    className="fd-popover"
+  >
+    <div
+      onFocus={[Function]}
+      onMouseDown={[Function]}
+      onTouchStart={[Function]}
+    >
+      <div
+        className="fd-popover__control"
+      >
+        <div
+          className="fd-popover"
+          onBlur={[Function]}
+          onFocus={[Function]}
+        >
+          <div
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onTouchStart={[Function]}
+          >
+            <div
+              className="fd-popover__control"
+            >
+              <div
+                className="fd-input-group--control fd-input-group is-disabled"
+                onClick={[Function]}
+              >
+                <input
+                  aria-label="Disabled search input"
+                  className="fd-input fd-input-group__input"
+                  disabled={true}
+                  onChange={[Function]}
+                  onClick={[Function]}
+                  onKeyPress={[Function]}
+                  placeholder="Placeholder"
+                  type="text"
+                  value=""
+                />
+                <span
+                  className="fd-input-group__addon fd-input-group__addon--button"
+                  disabled={true}
+                >
+                  <button
+                    aria-label="Search"
+                    className="fd-button fd-button--transparent is-disabled fd-input-group__button"
+                    disabled={true}
+                    onClick={[Function]}
+                    type="button"
+                  >
+                    <i
+                      aria-hidden={true}
+                      className="sap-icon--search"
+                      role="img"
+                    />
+                  </button>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component API/SearchInput No Styles 1`] = `
+<div>
+  <div
+    className="xxx-popover"
+  >
+    <div
+      onFocus={[Function]}
+      onMouseDown={[Function]}
+      onTouchStart={[Function]}
+    >
+      <div
+        className="xxx-popover__control"
+      >
+        <div
+          className="xxx-popover"
+          onBlur={[Function]}
+          onFocus={[Function]}
+        >
+          <div
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onTouchStart={[Function]}
+          >
+            <div
+              className="xxx-popover__control"
+            >
+              <div
+                className="xxx-input-group--control xxx-input-group"
+                onClick={[Function]}
+              >
+                <input
+                  aria-label="Compact search input"
+                  className="xxx-input xxx-input-group__input"
+                  onChange={[Function]}
+                  onClick={[Function]}
+                  onKeyPress={[Function]}
+                  placeholder="Placeholder"
+                  type="text"
+                  value=""
+                />
+                <span
+                  className="xxx-input-group__addon xxx-input-group__addon--button"
+                >
+                  <button
+                    aria-label="Search"
+                    className="xxx-button xxx-button--transparent xxx-input-group__button"
+                    onClick={[Function]}
+                    type="button"
+                  >
+                    <i
+                      aria-hidden={true}
+                      className="sap-icon--search"
+                      role="img"
+                    />
+                  </button>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component API/SearchInput Read Only 1`] = `
+<div>
+  <div
+    className="fd-popover"
+  >
+    <div
+      onFocus={[Function]}
+      onMouseDown={[Function]}
+      onTouchStart={[Function]}
+    >
+      <div
+        className="fd-popover__control"
+      >
+        <div
+          className="fd-popover"
+          onBlur={[Function]}
+          onFocus={[Function]}
+        >
+          <div
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onTouchStart={[Function]}
+          >
+            <div
+              className="fd-popover__control"
+            >
+              <div
+                className="fd-input-group--control fd-input-group"
+                onClick={[Function]}
+                readOnly={true}
+              >
+                <input
+                  aria-label="Readonly search input"
+                  className="fd-input fd-input-group__input"
+                  onChange={[Function]}
+                  onClick={[Function]}
+                  onKeyPress={[Function]}
+                  placeholder="Read Only"
+                  readOnly={true}
+                  type="text"
+                  value="apple"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component API/SearchInput Substring Search 1`] = `
+<div>
+  <div
+    className="fd-popover"
+  >
+    <div
+      onFocus={[Function]}
+      onMouseDown={[Function]}
+      onTouchStart={[Function]}
+    >
+      <div
+        className="fd-popover__control"
+      >
+        <div
+          className="fd-popover"
+          onBlur={[Function]}
+          onFocus={[Function]}
+        >
+          <div
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onTouchStart={[Function]}
+          >
+            <div
+              className="fd-popover__control"
+            >
+              <div
+                className="fd-input-group--control fd-input-group"
+                onClick={[Function]}
+              >
+                <input
+                  className="fd-input fd-input-group__input"
+                  onChange={[Function]}
+                  onClick={[Function]}
+                  onKeyPress={[Function]}
+                  placeholder="search substring"
+                  type="text"
+                  value=""
+                />
+                <span
+                  className="fd-input-group__addon fd-input-group__addon--button"
+                >
+                  <button
+                    aria-label="Search"
+                    className="fd-button fd-button--transparent fd-input-group__button"
+                    onClick={[Function]}
+                    type="button"
+                  >
+                    <i
+                      aria-hidden={true}
+                      className="sap-icon--search"
+                      role="img"
+                    />
+                  </button>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component API/SearchInput Validation States 1`] = `
+Array [
+  <div>
+    <div
+      className="fd-popover"
+    >
+      <div
+        onFocus={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <div
+          className="fd-popover__control"
+        >
+          <div
+            className="fd-popover"
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-input-group--control is-error fd-input-group is-error"
+                  onClick={[Function]}
+                >
+                  <input
+                    aria-label="Search input with error"
+                    className="fd-input fd-input-group__input"
+                    onChange={[Function]}
+                    onClick={[Function]}
+                    onKeyPress={[Function]}
+                    placeholder="Error"
+                    type="text"
+                    value=""
+                  />
+                  <span
+                    className="fd-input-group__addon fd-input-group__addon--button"
+                  >
+                    <button
+                      aria-label="Search"
+                      className="fd-button fd-button--transparent fd-input-group__button"
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <i
+                        aria-hidden={true}
+                        className="sap-icon--search"
+                        role="img"
+                      />
+                    </button>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div>
+    <div
+      className="fd-popover"
+    >
+      <div
+        onFocus={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <div
+          className="fd-popover__control"
+        >
+          <div
+            className="fd-popover"
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-input-group--control is-warning fd-input-group is-warning"
+                  onClick={[Function]}
+                >
+                  <input
+                    aria-label="Search input with warning"
+                    className="fd-input fd-input-group__input"
+                    onChange={[Function]}
+                    onClick={[Function]}
+                    onKeyPress={[Function]}
+                    placeholder="Warning"
+                    type="text"
+                    value=""
+                  />
+                  <span
+                    className="fd-input-group__addon fd-input-group__addon--button"
+                  >
+                    <button
+                      aria-label="Search"
+                      className="fd-button fd-button--transparent fd-input-group__button"
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <i
+                        aria-hidden={true}
+                        className="sap-icon--search"
+                        role="img"
+                      />
+                    </button>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div>
+    <div
+      className="fd-popover"
+    >
+      <div
+        onFocus={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <div
+          className="fd-popover__control"
+        >
+          <div
+            className="fd-popover"
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-input-group--control is-success fd-input-group is-success"
+                  onClick={[Function]}
+                >
+                  <input
+                    aria-label="Search input with success message"
+                    className="fd-input fd-input-group__input"
+                    onChange={[Function]}
+                    onClick={[Function]}
+                    onKeyPress={[Function]}
+                    placeholder="Success"
+                    type="text"
+                    value=""
+                  />
+                  <span
+                    className="fd-input-group__addon fd-input-group__addon--button"
+                  >
+                    <button
+                      aria-label="Search"
+                      className="fd-button fd-button--transparent fd-input-group__button"
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <i
+                        aria-hidden={true}
+                        className="sap-icon--search"
+                        role="img"
+                      />
+                    </button>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div>
+    <div
+      className="fd-popover"
+    >
+      <div
+        onFocus={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <div
+          className="fd-popover__control"
+        >
+          <div
+            className="fd-popover"
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+            >
+              <div
+                className="fd-popover__control"
+              >
+                <div
+                  className="fd-input-group--control is-information fd-input-group is-information"
+                  onClick={[Function]}
+                >
+                  <input
+                    aria-label="Search input with information"
+                    className="fd-input fd-input-group__input"
+                    onChange={[Function]}
+                    onClick={[Function]}
+                    onKeyPress={[Function]}
+                    placeholder="Information"
+                    type="text"
+                    value=""
+                  />
+                  <span
+                    className="fd-input-group__addon fd-input-group__addon--button"
+                  >
+                    <button
+                      aria-label="Search"
+                      className="fd-button fd-button--transparent fd-input-group__button"
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <i
+                        aria-hidden={true}
+                        className="sap-icon--search"
+                        role="img"
+                      />
+                    </button>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;

@@ -1,0 +1,1272 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Component API/List Action List 1`] = `
+Array [
+  <h4
+    className="fd-title fd-title--h4 fd-list__group-header"
+    id="fd-mocked-short-id-header"
+  >
+    Cart (4 items)
+  </h4>,
+  <ul
+    aria-labelledby="fd-mocked-short-id-header"
+    className="fd-list"
+    id="fd-mocked-short-id-list"
+    role="list"
+  >
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Apple
+      </span>
+      <span
+        className="fd-list__secondary"
+      >
+        Quantity: 2
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Banana
+      </span>
+      <span
+        className="fd-list__secondary"
+      >
+        Quantity: 3
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Durian
+      </span>
+      <span
+        className="fd-list__secondary"
+      >
+        Quantity: 1
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Grape
+      </span>
+      <span
+        className="fd-list__secondary"
+      >
+        Quantity: 1
+      </span>
+    </li>
+    <li
+      className="fd-list__item fd-list__item--action"
+      onClick={null}
+      tabIndex="-1"
+    >
+      <button
+        className="fd-list__title"
+        onClick={[Function]}
+      >
+        Empty cart
+      </button>
+    </li>
+    <li
+      className="fd-list__item fd-list__item--action"
+      onClick={null}
+      tabIndex="-1"
+    >
+      <button
+        className="fd-list__title"
+        onClick={[Function]}
+      >
+        Apply Coupon
+      </button>
+    </li>
+    <li
+      className="fd-list__item fd-list__item--action"
+      onClick={null}
+      tabIndex="-1"
+    >
+      <button
+        className="fd-list__title"
+        onClick={[Function]}
+      >
+        Checkout
+      </button>
+    </li>
+  </ul>,
+  <span
+    className="fd-list__footer"
+  >
+    Company ©
+  </span>,
+]
+`;
+
+exports[`Storyshots Component API/List Byline 1`] = `
+Array [
+  <h4
+    className="fd-title fd-title--h4 fd-list__group-header"
+    id="fd-mocked-short-id-header"
+  >
+    Order Summary (4 items)
+  </h4>,
+  <ul
+    aria-labelledby="fd-mocked-short-id-header"
+    className="fd-list fd-list--byline"
+    id="fd-mocked-short-id-list"
+    role="list"
+  >
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <div
+        className="fd-list__content"
+      >
+        <span
+          className="fd-list__title"
+        >
+          Apple
+        </span>
+        <div
+          className="fd-list__byline"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+        </div>
+      </div>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <div
+        className="fd-list__content"
+      >
+        <span
+          className="fd-list__title"
+        >
+          Banana
+        </span>
+        <div
+          className="fd-list__byline"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+        </div>
+      </div>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <div
+        className="fd-list__content"
+      >
+        <span
+          className="fd-list__title"
+        >
+          Durian
+        </span>
+        <div
+          className="fd-list__byline"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+        </div>
+      </div>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <div
+        className="fd-list__content"
+      >
+        <span
+          className="fd-list__title"
+        >
+          Grape
+        </span>
+        <div
+          className="fd-list__byline fd-list__byline--2-col"
+        >
+          <span
+            className="fd-list__byline-left"
+          >
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+          </span>
+          <span
+            className="fd-list__byline-right"
+          >
+             Out of stock
+          </span>
+        </div>
+      </div>
+    </li>
+  </ul>,
+  <span
+    className="fd-list__footer"
+  >
+    Updated 3 minutes ago
+  </span>,
+]
+`;
+
+exports[`Storyshots Component API/List Compact 1`] = `
+Array [
+  <h4
+    className="fd-title fd-title--h4 fd-list__group-header"
+    id="fd-mocked-short-id-header"
+  >
+    Fruits
+  </h4>,
+  <ul
+    aria-labelledby="fd-mocked-short-id-header"
+    className="fd-list fd-list--compact"
+    id="fd-mocked-short-id-list"
+    role="list"
+  >
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Apple
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Banana
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Durian
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Grape
+      </span>
+    </li>
+  </ul>,
+  <span
+    className="fd-list__footer"
+  >
+    Updated 3 minutes ago
+  </span>,
+]
+`;
+
+exports[`Storyshots Component API/List Dev 1`] = `
+Array [
+  <h4
+    className="fd-title fd-title--h4 fd-list__group-header"
+    id="fd-mocked-short-id-header"
+  >
+    Developer's List
+  </h4>,
+  <ul
+    aria-labelledby="fd-mocked-short-id-header"
+    className="fd-list"
+    id="fd-mocked-short-id-list"
+    role="list"
+  >
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <i
+        aria-hidden={true}
+        className="sap-icon--accept fd-list__icon"
+        role="img"
+      />
+      <span
+        className="fd-list__title"
+      >
+        List Item 1
+      </span>
+    </li>
+  </ul>,
+  <span
+    className="fd-list__footer"
+  >
+    List Footer
+  </span>,
+  <h4
+    className="fd-title fd-title--h4 fd-list__group-header"
+    id="fd-mocked-short-id-header"
+  >
+    Selectable Checkout options
+  </h4>,
+  <ul
+    aria-labelledby="fd-mocked-short-id-header"
+    className="fd-list fd-list--selection fd-list--navigation fd-list--navigation-indication"
+    id="fd-mocked-short-id-list"
+    role="listbox"
+  >
+    <li
+      aria-selected={false}
+      className="fd-list__item"
+      onClick={[Function]}
+      role="option"
+      tabIndex="0"
+    >
+      <div
+        className="fd-form-item fd-list__form-item"
+      >
+        <div
+          className="fd-form-item fd-form-item--inline"
+        >
+          <input
+            aria-checked={false}
+            aria-label="Coupon Applied: FREE"
+            checked={false}
+            className="fd-checkbox"
+            id="fd-mocked-short-id"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="fd-form-label fd-checkbox__label"
+            htmlFor="fd-mocked-short-id"
+          />
+        </div>
+      </div>
+      <span
+        className="fd-list__title"
+      >
+        Coupon Applied: FREE
+      </span>
+    </li>
+    <li
+      aria-selected={false}
+      className="fd-list__item"
+      onClick={[Function]}
+      role="option"
+      tabIndex="0"
+    >
+      <div
+        className="fd-form-item fd-list__form-item"
+      >
+        <div
+          className="fd-form-item fd-form-item--inline"
+        >
+          <input
+            aria-checked={false}
+            aria-label="Add gift wrapping"
+            checked={false}
+            className="fd-checkbox"
+            id="fd-mocked-short-id"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="fd-form-label fd-checkbox__label"
+            htmlFor="fd-mocked-short-id"
+          />
+        </div>
+      </div>
+      <span
+        className="fd-list__title"
+      >
+        Add gift wrapping
+      </span>
+    </li>
+    <li
+      aria-selected={false}
+      className="fd-list__item"
+      onClick={[Function]}
+      role="option"
+      tabIndex="0"
+    >
+      <div
+        className="fd-form-item fd-list__form-item"
+      >
+        <div
+          className="fd-form-item fd-form-item--inline"
+        >
+          <input
+            aria-checked={false}
+            aria-label="Less packaging"
+            checked={false}
+            className="fd-checkbox"
+            id="fd-mocked-short-id"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="fd-form-label fd-checkbox__label"
+            htmlFor="fd-mocked-short-id"
+          />
+        </div>
+      </div>
+      <span
+        className="fd-list__title"
+      >
+        Less packaging
+      </span>
+    </li>
+  </ul>,
+  <span
+    className="fd-list__footer"
+  >
+    Company ©
+  </span>,
+]
+`;
+
+exports[`Storyshots Component API/List Icons Left 1`] = `
+Array [
+  <h4
+    className="fd-title fd-title--h4 fd-list__group-header"
+    id="fd-mocked-short-id-header"
+  >
+    Settings
+  </h4>,
+  <ul
+    aria-labelledby="fd-mocked-short-id-header"
+    className="fd-list"
+    id="fd-mocked-short-id-list"
+    role="list"
+  >
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <i
+        aria-hidden={true}
+        className="sap-icon--cart fd-list__icon"
+        role="img"
+      />
+      <span
+        className="fd-list__title"
+      >
+        Checkout Cart
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <i
+        aria-hidden={true}
+        className="sap-icon--wrench fd-list__icon"
+        role="img"
+      />
+      <span
+        className="fd-list__title"
+      >
+        Profile Settings
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <i
+        aria-hidden={true}
+        className="sap-icon--lightbulb fd-list__icon"
+        role="img"
+      />
+      <span
+        className="fd-list__title"
+      >
+        Information
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <i
+        aria-hidden={true}
+        className="sap-icon--history fd-list__icon"
+        role="img"
+      />
+      <span
+        className="fd-list__title"
+      >
+        Order History
+      </span>
+    </li>
+  </ul>,
+]
+`;
+
+exports[`Storyshots Component API/List Icons Right 1`] = `
+Array [
+  <h4
+    className="fd-title fd-title--h4 fd-list__group-header"
+    id="fd-mocked-short-id-header"
+  >
+    Settings
+  </h4>,
+  <ul
+    aria-labelledby="fd-mocked-short-id-header"
+    className="fd-list"
+    id="fd-mocked-short-id-list"
+    role="list"
+  >
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Checkout Cart
+      </span>
+      <i
+        aria-hidden={true}
+        className="sap-icon--navigation-right-arrow fd-list__icon"
+        role="img"
+      />
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Profile Settings
+      </span>
+      <i
+        aria-hidden={true}
+        className="sap-icon--navigation-right-arrow fd-list__icon"
+        role="img"
+      />
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Information
+      </span>
+      <i
+        aria-hidden={true}
+        className="sap-icon--navigation-right-arrow fd-list__icon"
+        role="img"
+      />
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Order History
+      </span>
+      <i
+        aria-hidden={true}
+        className="sap-icon--navigation-right-arrow fd-list__icon"
+        role="img"
+      />
+    </li>
+  </ul>,
+]
+`;
+
+exports[`Storyshots Component API/List Navigation List 1`] = `
+Array [
+  <h4
+    className="fd-title fd-title--h4 fd-list__group-header"
+    id="fd-mocked-short-id-header"
+  >
+    Quick links
+  </h4>,
+  <ul
+    aria-labelledby="fd-mocked-short-id-header"
+    className="fd-list fd-list--navigation fd-list--navigation-indication"
+    id="fd-mocked-short-id-list"
+    role="list"
+  >
+    <li
+      className="fd-list__item fd-list__item--link"
+      onClick={null}
+      tabIndex="-1"
+    >
+      <a
+        className="fd-list__link"
+        href="#"
+        tabIndex="0"
+      >
+        <span
+          className="fd-list__title"
+        >
+          Checkout Cart
+        </span>
+      </a>
+    </li>
+    <li
+      className="fd-list__item fd-list__item--link"
+      onClick={null}
+      tabIndex="-1"
+    >
+      <a
+        className="fd-list__link"
+        href="#"
+        tabIndex="0"
+      >
+        <span
+          className="fd-list__title"
+        >
+          Profile Settings
+        </span>
+      </a>
+    </li>
+    <li
+      className="fd-list__item fd-list__item--link"
+      onClick={null}
+      tabIndex="-1"
+    >
+      <a
+        className="fd-list__link"
+        href="#"
+        tabIndex="0"
+      >
+        <span
+          className="fd-list__title"
+        >
+          Information
+        </span>
+      </a>
+    </li>
+    <li
+      className="fd-list__item fd-list__item--link"
+      onClick={null}
+      tabIndex="-1"
+    >
+      <a
+        className="fd-list__link is-selected"
+        href="#"
+        tabIndex="0"
+      >
+        <span
+          className="fd-list__title"
+        >
+          Order History
+        </span>
+      </a>
+    </li>
+  </ul>,
+  <span
+    className="fd-list__footer"
+  >
+    Company ©
+  </span>,
+]
+`;
+
+exports[`Storyshots Component API/List No Styles 1`] = `
+<ul
+  aria-labelledby={null}
+  className="xxx-list"
+  id="fd-mocked-short-id-list"
+  role="list"
+>
+  <li
+    className="xxx-list__item"
+    onClick={[Function]}
+    tabIndex="0"
+  >
+    <span
+      className="xxx-list__title"
+    >
+      Apple
+    </span>
+  </li>
+  <li
+    className="xxx-list__item"
+    onClick={[Function]}
+    tabIndex="0"
+  >
+    <span
+      className="xxx-list__title"
+    >
+      Banana
+    </span>
+  </li>
+  <li
+    className="xxx-list__item"
+    onClick={[Function]}
+    tabIndex="0"
+  >
+    <span
+      className="xxx-list__title"
+    >
+      Durian
+    </span>
+  </li>
+  <li
+    className="xxx-list__item"
+    onClick={[Function]}
+    tabIndex="0"
+  >
+    <span
+      className="xxx-list__title"
+    >
+      Grape
+    </span>
+  </li>
+</ul>
+`;
+
+exports[`Storyshots Component API/List Partial Navigation 1`] = `
+Array [
+  <h4
+    className="fd-title fd-title--h4 fd-list__group-header"
+    id="fd-mocked-short-id-header"
+  >
+    Cart (3 items)
+  </h4>,
+  <ul
+    aria-labelledby="fd-mocked-short-id-header"
+    className="fd-list fd-list--navigation fd-list--navigation-indication"
+    id="fd-mocked-short-id-list"
+    role="list"
+  >
+    <li
+      className="fd-list__item fd-list__item--link"
+      onClick={null}
+      tabIndex="-1"
+    >
+      <a
+        className="fd-list__link fd-list__link--navigation-indicator"
+        href="#"
+        tabIndex="0"
+      >
+        <span
+          className="fd-list__title"
+        >
+          Add more items
+        </span>
+      </a>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Apple
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Banana
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Durian
+      </span>
+    </li>
+    <li
+      className="fd-list__item fd-list__item--link"
+      onClick={null}
+      tabIndex="-1"
+    >
+      <a
+        className="fd-list__link fd-list__link--navigation-indicator is-selected"
+        href="#"
+        tabIndex="0"
+      >
+        <span
+          className="fd-list__title"
+        >
+          Checkout
+        </span>
+      </a>
+    </li>
+  </ul>,
+  <span
+    className="fd-list__footer"
+  >
+    Updated 3 minutes ago
+  </span>,
+]
+`;
+
+exports[`Storyshots Component API/List Secondary Text 1`] = `
+Array [
+  <h4
+    className="fd-title fd-title--h4 fd-list__group-header"
+    id="fd-mocked-short-id-header"
+  >
+    Order Receipt (4 items)
+  </h4>,
+  <ul
+    aria-labelledby="fd-mocked-short-id-header"
+    className="fd-list"
+    id="fd-mocked-short-id-list"
+    role="list"
+  >
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Apple
+      </span>
+      <span
+        className="fd-list__secondary"
+      >
+        Quantity: 2
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Banana
+      </span>
+      <span
+        className="fd-list__secondary"
+      >
+        Quantity: 3
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Durian
+      </span>
+      <span
+        className="fd-list__secondary"
+      >
+        Quantity: 1
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Grape
+      </span>
+      <span
+        className="fd-list__secondary"
+      >
+        Quantity: 1
+      </span>
+    </li>
+  </ul>,
+  <span
+    className="fd-list__footer"
+  >
+    <span
+      className="fd-list__title"
+    >
+      <b>
+        Total
+      </b>
+    </span>
+    <span
+      className="fd-list__secondary"
+    >
+      7
+    </span>
+  </span>,
+]
+`;
+
+exports[`Storyshots Component API/List Selection 1`] = `
+Array [
+  <h4
+    className="fd-title fd-title--h4 fd-list__group-header"
+    id="fd-mocked-short-id-header"
+  >
+    Checkout options
+  </h4>,
+  <ul
+    aria-labelledby="fd-mocked-short-id-header"
+    className="fd-list fd-list--selection fd-list--navigation fd-list--navigation-indication"
+    id="fd-mocked-short-id-list"
+    role="listbox"
+  >
+    <li
+      aria-selected={true}
+      className="fd-list__item"
+      onClick={[Function]}
+      role="option"
+      tabIndex="0"
+    >
+      <div
+        className="fd-form-item fd-list__form-item"
+      >
+        <div
+          className="fd-form-item fd-form-item--inline"
+        >
+          <input
+            aria-checked={true}
+            aria-label="Coupon Applied: FREE"
+            checked={true}
+            className="fd-checkbox"
+            id="fd-mocked-short-id"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="fd-form-label fd-checkbox__label"
+            htmlFor="fd-mocked-short-id"
+          />
+        </div>
+      </div>
+      <span
+        className="fd-list__title"
+      >
+        Coupon Applied: FREE
+      </span>
+    </li>
+    <li
+      aria-selected={false}
+      className="fd-list__item"
+      onClick={[Function]}
+      role="option"
+      tabIndex="0"
+    >
+      <div
+        className="fd-form-item fd-list__form-item"
+      >
+        <div
+          className="fd-form-item fd-form-item--inline"
+        >
+          <input
+            aria-checked={false}
+            aria-label="Add gift wrapping"
+            checked={false}
+            className="fd-checkbox"
+            id="fd-mocked-short-id"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="fd-form-label fd-checkbox__label"
+            htmlFor="fd-mocked-short-id"
+          />
+        </div>
+      </div>
+      <span
+        className="fd-list__title"
+      >
+        Add gift wrapping
+      </span>
+    </li>
+    <li
+      aria-selected={false}
+      className="fd-list__item"
+      onClick={[Function]}
+      role="option"
+      tabIndex="0"
+    >
+      <div
+        className="fd-form-item fd-list__form-item"
+      >
+        <div
+          className="fd-form-item fd-form-item--inline"
+        >
+          <input
+            aria-checked={false}
+            aria-label="Less packaging"
+            checked={false}
+            className="fd-checkbox"
+            id="fd-mocked-short-id"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="fd-form-label fd-checkbox__label"
+            htmlFor="fd-mocked-short-id"
+          />
+        </div>
+      </div>
+      <span
+        className="fd-list__title"
+      >
+        Less packaging
+      </span>
+    </li>
+  </ul>,
+  <span
+    className="fd-list__footer"
+  >
+    Company ©
+  </span>,
+]
+`;
+
+exports[`Storyshots Component API/List Simple List 1`] = `
+<ul
+  aria-labelledby={null}
+  className="fd-list"
+  id="fd-mocked-short-id-list"
+  role="list"
+>
+  <li
+    className="fd-list__item"
+    onClick={[Function]}
+    tabIndex="0"
+  >
+    <span
+      className="fd-list__title"
+    >
+      Apple
+    </span>
+  </li>
+  <li
+    className="fd-list__item"
+    onClick={[Function]}
+    tabIndex="0"
+  >
+    <span
+      className="fd-list__title"
+    >
+      Banana
+    </span>
+  </li>
+  <li
+    className="fd-list__item"
+    onClick={[Function]}
+    tabIndex="0"
+  >
+    <span
+      className="fd-list__title"
+    >
+      Durian
+    </span>
+  </li>
+  <li
+    className="fd-list__item"
+    onClick={[Function]}
+    tabIndex="0"
+  >
+    <span
+      className="fd-list__title"
+    >
+      Grape
+    </span>
+  </li>
+</ul>
+`;
+
+exports[`Storyshots Component API/List with Header and Footer 1`] = `
+Array [
+  <h6
+    className="fd-title fd-title--h2 fd-list__group-header"
+    id="fd-mocked-short-id-header"
+  >
+    Fruits
+  </h6>,
+  <ul
+    aria-labelledby="fd-mocked-short-id-header"
+    className="fd-list"
+    id="fd-mocked-short-id-list"
+    role="list"
+  >
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Apple
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Banana
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Durian
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Grape
+      </span>
+    </li>
+  </ul>,
+  <span
+    className="fd-list__footer"
+  >
+    Updated 3 minutes ago
+  </span>,
+]
+`;
+
+exports[`Storyshots Component API/List with no borders 1`] = `
+Array [
+  <h4
+    className="fd-title fd-title--h4 fd-list__group-header"
+    id="fd-mocked-short-id-header"
+  >
+    Fruits
+  </h4>,
+  <ul
+    aria-labelledby="fd-mocked-short-id-header"
+    className="fd-list fd-list--no-border"
+    id="fd-mocked-short-id-list"
+    role="list"
+  >
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Apple
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Banana
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Durian
+      </span>
+    </li>
+    <li
+      className="fd-list__item"
+      onClick={[Function]}
+      tabIndex="0"
+    >
+      <span
+        className="fd-list__title"
+      >
+        Grape
+      </span>
+    </li>
+  </ul>,
+  <span
+    className="fd-list__footer"
+  >
+    Updated 3 minutes ago
+  </span>,
+]
+`;
